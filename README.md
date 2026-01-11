@@ -6,13 +6,13 @@ A solução foi dividida em **backend e frontend**, com foco principal no **back
 
 ---
 
-## 🧠 Visão Geral
+##  Visão Geral
 
 O sistema permite o cadastro de alunos, registro de notas em cinco disciplinas e controle de frequência, realizando automaticamente os cálculos de médias e identificando situações específicas.
 
 ---
 
-## 🖥️ Backend — ASP.NET Core (.NET 8)
+##  Backend — ASP.NET Core (.NET 8)
 
 O backend foi desenvolvido utilizando **ASP.NET Core com .NET 8**, atendendo integralmente ao requisito técnico do desafio.
 

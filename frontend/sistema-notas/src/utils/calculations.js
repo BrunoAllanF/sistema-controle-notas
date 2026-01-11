@@ -51,4 +51,3 @@ export function calculateClassAverage(students) {
   // Divide pelo número de alunos
   return (total / students.length).toFixed(2)
 }
-app.UseHttpsRedirection();
